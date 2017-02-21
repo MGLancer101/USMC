@@ -7,3 +7,8 @@ p{
   font-size: 30px;
   color: blue;
 }
+
+#logo{
+  height: 300px;
+  width: 350px;
+}
